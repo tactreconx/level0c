@@ -1,0 +1,10 @@
+import org.jointheleague.graphical.robot.Robot;
+
+public class RobotSquare {
+	public static void main(String[] args) {
+		int time=26;
+		Robot bot= new Robot();
+		int speed=50;
+		int move=200;		
+	}
+}
